@@ -1,0 +1,10 @@
+{
+    "name": "captcha-server",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "^4.17.1",
+        "gm": "^1.23.1",
+        "svg-captcha": "^1.4.0"
+    }
+}
